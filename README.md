@@ -23,10 +23,16 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />]()
 [<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />](https://angular.io/)
 
-
 <br />
 
 ---
+
+### GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=temisrei&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=discord)](https://github.com/temisrei)
+
+<br />
+
 
 [twitter]: https://twitter.com/temisrei
 [instagram]: https://www.instagram.com/temisrei
