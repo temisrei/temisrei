@@ -27,6 +27,12 @@
 
 ---
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
 ### GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=temisrei&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=discord)](https://github.com/temisrei)
